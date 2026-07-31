@@ -11,8 +11,8 @@ The official online program is comprehensive but spread across an interactive sc
 ## What is included
 
 - 190 sessions
-- 850 scheduled presentation\-level items
-- 297 poster presentations
+- 1,014 scheduled presentation\-level items
+- 366 poster presentations
 - Complete author lists as displayed in the official program
 - Presentation titles, times, session numbers, rooms, and conference tracks
 - Session chairs, cochairs, submitters, moderators, and panelists when listed
